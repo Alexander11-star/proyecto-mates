@@ -15,3 +15,5 @@ estoy haciendo unos porgresos melitos que seran interrumpidos
 
 
 progreso retomado sin problema.
+
+estos son cambios que se aplican con rebease
