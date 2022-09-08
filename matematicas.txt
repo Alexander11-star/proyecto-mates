@@ -1,8 +1,14 @@
+<<<<<<< Updated upstream
 # Nuestro cliente es el mejor
 
 es la mejor version
 
 este fichero es de prueba para repositorio
+=======
+#fichero de matematcias
+
+te fichero es de prueba para repositorio
+>>>>>>> Stashed changes
 
 
 estoy haciendo unos porgresos melitos que seran interrumpidos
