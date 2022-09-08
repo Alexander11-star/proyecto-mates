@@ -1,19 +1,9 @@
-<<<<<<< Updated upstream
 # Nuestro cliente es el mejor
 
-es la mejor version
-
-este fichero es de prueba para repositorio
-=======
-#fichero de matematcias
-
-te fichero es de prueba para repositorio
->>>>>>> Stashed changes
-
+Fichero es de prueba para repositorio
 
 estoy haciendo unos porgresos melitos que seran interrumpidos
 
-
 progreso retomado sin problema.
 
-estos son cambios que se aplican con rebease
+estos son cambios que se aplican con rebease y son exitosas
