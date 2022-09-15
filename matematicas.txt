@@ -7,3 +7,7 @@ estoy haciendo unos porgresos melitos que seran interrumpidos
 progreso retomado sin problema.
 
 estos son cambios que se aplican con rebease y son exitosas
+
+### Modificacion mediante GitHub
+
+Esto es una modificacion hecha desde la web
