@@ -1,7 +1,0 @@
-# Historia de la rama main 
-
-Hace unas semanas este curso empezo.
-
-## Inicios de la rama
-
-La rama empezo llamandose master...
